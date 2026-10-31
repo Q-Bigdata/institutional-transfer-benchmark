@@ -51,3 +51,7 @@ This repository's original software is licensed under MIT; original model-respon
 The SI, manuscript summary and revision response were corrected locally on 2026-10-31 to distinguish the first 224 original records, the complete 266 original calls, and 213 revision calls, as well as cache-inclusive and non-cache token counts. All 266 original ledger entries reconcile with the raw usage records. Original/revision cache-inclusive totals are 1,908,408/1,153,408; non-cache input-plus-output totals are 1,037,314/533,674. The previously reported 894,973 corresponds to the first 224 original records only. SI Table S2 reports cache-inclusive counts, whereas Table S3 reports non-cache input-plus-output counts; both captions specify the scope. Original logs and ledger values are unchanged.
 
 Initial-round human input covers 440 groups; the fitting decision table has 36,156 rows from 438 groups. No records were altered by this packaging work.
+
+## Archived version
+
+Version **v1.0.0** is archived at [10.5281/zenodo.23836527](https://doi.org/10.5281/zenodo.23836527). It fixes source commit `5e4698a0726537de71230eaaf75c8d56afb2039c`. Please cite this specific version DOI. The archive retains the reproduction boundaries and third-party license terms described above.
