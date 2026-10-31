@@ -1,0 +1,2 @@
+[  1926s] boot 15000
+[  1927s] DONE boot

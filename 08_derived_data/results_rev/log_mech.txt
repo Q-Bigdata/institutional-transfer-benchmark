@@ -1,0 +1,3 @@
+[    27s] mech point 528
+[   106s] mech boot 26400
+[   106s] DONE mech
